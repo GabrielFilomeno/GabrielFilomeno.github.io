@@ -59,7 +59,6 @@ function createsnakeHead() {
 function createCalda() {
 
     let lastIndex = snakeHead.length -1;
-    let penultimoIndex = snakeHead.length -2;
 
     var imgCalda = new Image();
 
